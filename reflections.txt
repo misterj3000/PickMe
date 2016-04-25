@@ -1,0 +1,31 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+
+Answer the following questions:
+  
+
+* What new skills have you learned?
+ 
+ * What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+<h1>Jason Johnson:</h1> 
+
+<hr>
+
+
+
+<div><p>I must say that Web Deelopment has been an aboslute blast! I love leraning and this course has give me space to learn in a way that I just knew was possible, but by admission, somestimes felt was out of grasp for me - Thank you Udacity!!  </P>  </div> 
+
+
+ 
+
+<div> <p> The work is not hard, just like the tutorial videos stated- most of it is just research;) Honestly, my challenge has been time. My wife recently underwent major surgey and needed my care in recovery, add this to two young children, a puppy and recent travel demands at work and you are often short on time. The good news is that now I feel like there is some stabilty returning to my life which has allowed me to <q> catch up </q> on Udacity work!</p> </div> 
+
