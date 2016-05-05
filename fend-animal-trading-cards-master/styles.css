@@ -1,0 +1,26 @@
+
+.box{width: 322px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 0; 
+      box-shadow: 1px 1px 2px grey
+	 ;
+	 
+	
+}
+.nutherbox{width: 298px;
+    padding: 10px;
+    border: 2px solid grey;
+    margin: 0; 
+     }
+.text{ font-family: arial;}
+	 
+	 
+.span{  font-weight: bold;}
+
+.nobullet{ list-style-type: none;}
+
+.img{ width: 298px;
+    padding: 10px;
+   border: ;
+    margin: 0; }
